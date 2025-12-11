@@ -1,0 +1,24 @@
+{
+  "sectors": {
+    "17": "Justice Hall",
+    "23": "Senior Prime Center",
+    "29": "Finance & Treasury",
+    "31": "Infrastructure & DMV",
+    "43": "Security & Police",
+    "51": "Creative City",
+    "61": "Health & Cure Hub",
+    "71": "Education & Youth",
+    "81": "Prime Registry"
+  },
+  "grid": {
+    "A1": "Justice Hall",
+    "A2": "Finance & Treasury",
+    "A3": "Health & Cure Hub",
+    "B1": "Senior Prime Center",
+    "B2": "Infrastructure & DMV",
+    "B3": "Security & Police",
+    "C1": "Creative City",
+    "C2": "Education & Youth",
+    "C3": "Prime Registry"
+  }
+}
